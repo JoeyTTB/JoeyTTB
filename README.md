@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="100" height="100" />
 </h2>
 
-### 🛠️ 技术栈工具箱
+### 🛠️ 个人开发技术栈
 [![Java](https://img.shields.io/badge/Java-17-FF9800?logo=openjdk)](https://dev.java)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)](https://www.python.org)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-3.1.5-6DB33F?logo=spring)](https://spring.io)
@@ -29,6 +29,8 @@
 | [交通标志识别系统-前端](https://github.com/JoeyTTB/YOLOV8-TSDRS-frontend) | HTML/JavaScript/CSS/WebSocket/AJAX | 交通标志检测前端页面 |
 | [易优鲜线上商城界面](https://github.com/JoeyTTB/EasyFreshGoods-OnlineShoppingMall) | HTML/JavaScript/CSS | 易优鲜线上商城前端页面 |
 | [Android应用-智能拨号器](https://github.com/JoeyTTB/Intelligent-Dialer) | Java/Room/ZXing/Google Play Services/MVVM | 一款功能丰富、智能化的 Android 拨号应用，支持传统拨号、语音拨号、扫码拨号等多种拨号方式 |
+| [ChatOnline后端](https://github.com/JoeyTTB/WebApp-ChatOnline-Backend) | Spring Boot3/MySQL/Redis/Mybatis-Plus/MinIO | 简易美观的IM网路聊天平台-后端 |
+| [ChatOnline前端](https://github.com/JoeyTTB/WebApp-ChatOnline-Frontend) | Vue3/TypeScript/Vite/Element Plus/Pinia/Axios | 简易美观的IM网路聊天平台-前端 |
 | 新项目开发中... | \ | \ |
 
 ### 🤝 技术交流
