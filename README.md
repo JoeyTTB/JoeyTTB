@@ -27,10 +27,9 @@
 | [交通标志识别系统-后端](https://github.com/JoeyTTB/YOLOV8-TSDRS-backend) | Spring Boot3/MySQL/Redis/MyBatis/Spring Security/Aliyun OSS | 交通标志检测后端平台 | 
 | [交通标志识别系统-算法服务](https://github.com/JoeyTTB/YOLOV8-TSDRS-flask) | Python3/YOLOv8-framework/socketio/ffmpeg/Pyside6/Aliyun OSS | 基于YOLOv8模型二次开发的图片、视频流数据交通标志检测 |
 | [交通标志识别系统-前端](https://github.com/JoeyTTB/YOLOV8-TSDRS-frontend) | HTML/JavaScript/CSS/WebSocket/AJAX | 交通标志检测前端页面 |
-| [易优鲜线上商城界面](https://github.com/JoeyTTB/EasyFreshGoods-OnlineShoppingMall) | HTML/JavaScript/CSS | 易优鲜线上商城前端页面 |
 | [Android应用-智能拨号器](https://github.com/JoeyTTB/Intelligent-Dialer) | Java/Room/ZXing/Google Play Services/MVVM | 一款功能丰富、智能化的 Android 拨号应用，支持传统拨号、语音拨号、扫码拨号等多种拨号方式 |
-| [ChatOnline后端](https://github.com/JoeyTTB/WebApp-ChatOnline-Backend) | Spring Boot3/MySQL/Redis/Mybatis-Plus/MinIO | 简易美观的IM网路聊天平台-后端 |
-| [ChatOnline前端](https://github.com/JoeyTTB/WebApp-ChatOnline-Frontend) | Vue3/TypeScript/Vite/Element Plus/Pinia/Axios | 简易美观的IM网路聊天平台-前端 |
+| [ChatOnline后端](https://github.com/JoeyTTB/WebApp-ChatOnline-Backend) | Spring Boot3/MySQL/Redis/Mybatis-Plus/MinIO | 简易美观的IM网络聊天平台-后端 |
+| [ChatOnline前端](https://github.com/JoeyTTB/WebApp-ChatOnline-Frontend) | Vue3/TypeScript/Vite/Element Plus/Pinia/Axios | 简易美观的I网络聊天平台-前端 |
 | 新项目开发中... | \ | \ |
 
 ### 🤝 技术交流
